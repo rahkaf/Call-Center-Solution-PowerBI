@@ -32,7 +32,7 @@ This Power BI project analyzes call center performance metrics, including agent 
 3. Explore the dashboard and underlying data.
 
 ## Screenshots
-![Dashboard Preview](link-to-screenshot)
+![Dashboard Preview](https://github.com/rahkaf/Call-Center-Solution-PowerBI/blob/main/Screenshot%202025-01-20%20233747.png)
 
 ## Tools Used
 - Power BI Desktop
